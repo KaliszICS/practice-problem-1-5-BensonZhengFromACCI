@@ -3,7 +3,7 @@ import java.util.Scanner;
 	* File: Lesson 1.5: Characters
 	* Author: Benson Zheng
 	* Date Created: February 10, 2023
-	* Date Last Modified: February 20, 2023
+	* Date Last Modified: February 20, 2026
 	*/
 public class PracticeProblem {
 
